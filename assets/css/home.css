@@ -1,0 +1,56 @@
+/* HOME PAGE */
+body {
+    background-image: linear-gradient(to bottom, #ffaf00, #fcb600, #f9bc00, #f5c300, #f1c904, #f8b803, #fda610, #ff941e, #ff6243, #ff256b, #e60097, #a524c0);
+
+}
+
+.navbar-brand img {
+    width: 30%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-weight: 500;
+    font-size: medium;
+    transition: font-size 0.2s;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    border-bottom: solid white;
+    font-size: large;
+}
+
+.navbar-collapse :hover {
+    margin-bottom: -4px;
+}
+
+.content .p {
+    margin-top: 80px;
+    color: #000;
+    font-weight: bold;
+}
+
+.content {
+    margin: auto;
+    width: 90%;
+}
+
+.card {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+span {
+    font-size: 85px;
+}
+
+.container {
+    height: 100vmax;
+}
+
+footer {
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
